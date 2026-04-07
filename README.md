@@ -83,24 +83,6 @@ Separate React components for clean code
 
 Instant feedback for user input
 
-📁 Folder Structure
-gaming-form/
-│
-├── src/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   ├── Form.jsx
-│   │   ├── InputField.jsx
-│   │   ├── GameSelector.jsx
-│   │   └── SubmitButton.jsx
-│   │
-│   ├── App.jsx
-│   ├── index.js
-│   ├── App.css
-│   └── index.css
-│
-└── public/
-    └── index.html
 
 🧩 What I Learned
 
@@ -115,14 +97,7 @@ Build modular React components
 Implement responsive layouts
 
 Create a user-friendly and interactive form experience
-
-📬 Contact
-
-Email: shayanrajpoot520@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/m-shayan-faisal/
-
-GitHub: https://github.com/shayan520898
+8
 
 📝 License
 
